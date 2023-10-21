@@ -1,0 +1,15 @@
+{
+    "name": "zined/quest",
+    "autoload": {
+        "psr-4": {
+            "Zined\\Quest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "2z75",
+            "email": "zinedine.chader@mail.com"
+        }
+    ],
+    "require": {}
+}
