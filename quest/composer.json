@@ -2,7 +2,7 @@
     "name": "zined/quest",
     "autoload": {
         "psr-4": {
-            "Zined\\Quest\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
