@@ -1,9 +1,7 @@
 <?php
 
-use App\Hello;
+require "../vendor/autoload.php";
 
-require_once __DIR__ . "../vendor/autoload.php";
-
-$hello = new Hello();
+$hello = new App\Hello();
 
 echo $hello->talk();
